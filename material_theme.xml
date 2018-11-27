@@ -4,7 +4,9 @@
     <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="cb6096" />
+    <option name="accentColor" value="ff9800" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="tabOpacity" value="43" />
     <option name="userId" value="75b5cfd:1670858078e:-8000" />
   </component>
